@@ -1,0 +1,6 @@
+pyqt5
+qrcode[pil]
+opencv-python
+pyzbar
+pillow
+pyinstaller
